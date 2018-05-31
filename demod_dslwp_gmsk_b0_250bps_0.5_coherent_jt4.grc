@@ -101,7 +101,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>0</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -479,7 +479,7 @@
     </param>
     <param>
       <key>gain</key>
-      <value>1</value>
+      <value>10.0**(af_gain/20.0)</value>
     </param>
     <param>
       <key>high_cutoff_freq</key>
@@ -1405,7 +1405,7 @@
     </param>
     <param>
       <key>gui_hint</key>
-      <value></value>
+      <value>6,0</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1648,7 +1648,7 @@
     </param>
     <param>
       <key>gui_hint</key>
-      <value>3,0</value>
+      <value>4,0</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2314,7 +2314,7 @@
     </param>
     <param>
       <key>gui_hint</key>
-      <value>4,0</value>
+      <value>5,0</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2968,7 +2968,7 @@
     </param>
     <param>
       <key>gui_hint</key>
-      <value>2,0</value>
+      <value>3,0</value>
     </param>
     <param>
       <key>_rotation</key>
