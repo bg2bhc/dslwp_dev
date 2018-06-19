@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>demod_dslwp_gmsk_b0_250bps_0r5_coherent_jt4</value>
+      <value>demod_dslwp_gmsk_b1_250bps_0r5_coherent_jt4</value>
     </param>
     <param>
       <key>max_nouts</key>
@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value>demod_dslwp_gmsk_b0_250bps_0r5_coherent_jt4</value>
+      <value>demod_dslwp_gmsk_b1_250bps_0r5_coherent_jt4</value>
     </param>
   </block>
   <block>
@@ -809,7 +809,7 @@
     </param>
     <param>
       <key>port</key>
-      <value>7161</value>
+      <value>7177</value>
     </param>
     <param>
       <key>vlen</key>
