@@ -152,7 +152,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>-4</value>
+      <value>-2</value>
     </param>
   </block>
   <block>
@@ -1043,7 +1043,7 @@
     <key>dslwp_oqpsk_coherent_demod_cc</key>
     <param>
       <key>asm_ignore</key>
-      <value>0</value>
+      <value>100</value>
     </param>
     <param>
       <key>alias</key>
@@ -1190,7 +1190,7 @@
     </param>
     <param>
       <key>path</key>
-      <value>/home/lilac/dslwp_dev/program_tracking_dslwp-b_20181102.txt</value>
+      <value>/home/lilac/dslwp_dev/program_tracking_dslwp-b_20190722.txt</value>
     </param>
     <param>
       <key>samp_rate</key>

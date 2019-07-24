@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?grc format='1' created='3.7.11'?>
+<?grc format='1' created='3.7.12'?>
 <flow_graph>
   <timestamp>Wed Jan 24 22:55:15 2018</timestamp>
   <block>
@@ -73,12 +73,20 @@
       <value>True</value>
     </param>
     <param>
+      <key>sizing_mode</key>
+      <value>fixed</value>
+    </param>
+    <param>
       <key>thread_safe_setters</key>
       <value></value>
     </param>
     <param>
       <key>title</key>
       <value>demod_dslwp_gmsk_b1</value>
+    </param>
+    <param>
+      <key>placement</key>
+      <value>(0,0)</value>
     </param>
   </block>
   <block>
@@ -745,7 +753,7 @@
     </param>
     <param>
       <key>code_type</key>
-      <value>4</value>
+      <value>2</value>
     </param>
     <param>
       <key>comment</key>
@@ -793,7 +801,7 @@
     </param>
     <param>
       <key>update_sigma</key>
-      <value>0</value>
+      <value>1</value>
     </param>
   </block>
   <block>
@@ -816,7 +824,7 @@
     </param>
     <param>
       <key>frame_length</key>
-      <value>7152</value>
+      <value>3576</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1115,7 +1123,7 @@
     </param>
     <param>
       <key>path</key>
-      <value>/home/lilac/dslwp_dev/program_tracking_dslwp-b_20181102.txt</value>
+      <value>/home/lilac/dslwp_dev/program_tracking_dslwp-b_20190722.txt</value>
     </param>
     <param>
       <key>samp_rate</key>
